@@ -8,8 +8,7 @@ import { HeroesRoutingModule } from './heroes-routing.module';
 import { HeroeComponent } from './pages/heroe/heroe.component';
 import { FlexLayoutModule } from '@angular/flex-layout';
 import { MaterialModule } from '../material/material.module';
-import { HeroeTarjetaComponentComponent } from './components/heroe-tarjeta-component/heroe-tarjeta-component.component';
-import { HeroeTarjetaComponent } from './components/heroe-tarjeta/heroe-tarjeta.component';
+
 
 
 
@@ -19,9 +18,7 @@ import { HeroeTarjetaComponent } from './components/heroe-tarjeta/heroe-tarjeta.
     BuscarComponent,
     HomeComponent,
     ListadoComponent,
-    HeroeComponent,
-    HeroeTarjetaComponentComponent,
-    HeroeTarjetaComponent
+    HeroeComponent
   ],
   imports: [
     CommonModule,
