@@ -1,0 +1,171 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "usuario": "John Doe",
+      "email": "john.due@gmail.com"
+    }
+  ],
+  "heroes": [
+    {
+      "id": "dc-batman",
+      "superhero": "Bosques de San Antonio",
+      "publisher": "CONSTRUFUTURO",
+      "alter_ego": "Vivienda de 2 Niveles",
+      "first_appearance": "Casas de 2 Niveles",
+      "characters": "Lote de 10 x 9.45 m"
+    },
+    {
+      "id": "dc-superman",
+      "superhero": "Bosques de San Antonio",
+      "publisher": "CONSTRUFUTURO",
+      "alter_ego": "Al Oriente de la Ciudad",
+      "first_appearance": "Casas de 2 Niveles",
+      "characters": "42 m2 de construcción"
+    },
+    {
+      "id": "dc-flash",
+      "superhero": "Bosques de San Antonio",
+      "publisher": "CONSTRUFUTURO",
+      "alter_ego": "Dos recamaras, un baño completo, sala, comedor, cocina, patio de servicio, entrada de carro",
+      "first_appearance": "Casa de 2 niveles",
+      "characters": "Lote de 10 x 9.45 m"
+    },
+    {
+      "id": "dc-green",
+       "superhero": "Bosques de San Antonio",
+      "publisher": "CONSTRUFUTURO",
+      "alter_ego": "Vivienda de 2 Niveles",
+      "first_appearance": "Casas de 2 Niveles",
+      "characters": "Lote de 10 x 9.45 m"
+    },
+    {
+      "id": "dc-arrow",
+       "superhero": "Bosques de San Antonio",
+      "publisher": "CONSTRUFUTURO",
+      "alter_ego": "Vivienda de 2 Niveles",
+      "first_appearance": "Casas de 2 Niveles",
+      "characters": "Lote de 10 x 9.45 m"
+    },
+    {
+      "id": "dc-wonder",
+      "superhero": "Bosques de San Antonio",
+      "publisher": "CONSTRUFUTURO",
+      "alter_ego": "Vivienda de 2 Niveles",
+      "first_appearance": "Casas de 2 Niveles",
+      "characters": "Lote de 10 x 9.45 m"
+    },
+    {
+      "id": "dc-martian",
+      "superhero": "Bosques de San Antonio",
+      "publisher": "CONSTRUFUTURO",
+      "alter_ego": "Vivienda de 2 Niveles",
+      "first_appearance": "Casas de 2 Niveles",
+      "characters": "Lote de 10 x 9.45 m"
+    },
+    {
+      "id": "dc-robin",
+       "superhero": "Bosques de San Antonio",
+      "publisher": "CONSTRUFUTURO",
+      "alter_ego": "Vivienda de 2 Niveles",
+      "first_appearance": "Casas de 2 Niveles",
+      "characters": "Lote de 10 x 9.45 m"
+    },
+    {
+      "id": "dc-blue",
+      "superhero": "Bosques de San Antonio",
+      "publisher": "CONSTRUFUTURO",
+      "alter_ego": "Vivienda de 2 Niveles",
+      "first_appearance": "Casas de 2 Niveles",
+      "characters": "Lote de 10 x 9.45 m"
+    },
+    {
+      "id": "dc-black",
+      "superhero": "Bosques de San Antonio",
+      "publisher": "CONSTRUFUTURO",
+      "alter_ego": "Vivienda de 2 Niveles",
+      "first_appearance": "Casas de 2 Niveles",
+      "characters": "Lote de 10 x 9.45 m"
+    },
+    {
+      "id": "marvel-spider",
+      "superhero": "Bosques de San Antonio",
+      "publisher": "CONSTRUFUTURO",
+      "alter_ego": "Vivienda de 2 Niveles",
+      "first_appearance": "Casas de 2 Niveles",
+      "characters": "Lote de 10 x 9.45 m"
+    },
+    {
+      "id": "marvel-captain",
+      "superhero": "Bosques de San Antonio",
+      "publisher": "CONSTRUFUTURO",
+      "alter_ego": "Vivienda de 2 Niveles",
+      "first_appearance": "Casas de 2 Niveles",
+      "characters": "Lote de 10 x 9.45 m"
+    },
+    {
+      "id": "marvel-iron",
+      "superhero": "Bosques de San Antonio",
+      "publisher": "CONSTRUFUTURO",
+      "alter_ego": "Vivienda de 2 Niveles",
+      "first_appearance": "Casas de 2 Niveles",
+      "characters": "Lote de 10 x 9.45 m"
+    },
+    {
+      "id": "marvel-thor",
+      "superhero": "Bosques de San Antonio",
+      "publisher": "CONSTRUFUTURO",
+      "alter_ego": "Vivienda de 2 Niveles",
+      "first_appearance": "Casas de 2 Niveles",
+      "characters": "Lote de 10 x 9.45 m"
+    },
+    {
+      "id": "marvel-hulk",
+      "superhero": "Bosques de San Antonio",
+      "publisher": "CONSTRUFUTURO",
+      "alter_ego": "Vivienda de 2 Niveles",
+      "first_appearance": "Casas de 2 Niveles",
+      "characters": "Lote de 10 x 9.45 m"
+    },
+    {
+      "id": "marvel-wolverine",
+      "superhero": "Bosques de San Antonio",
+      "publisher": "CONSTRUFUTURO",
+      "alter_ego": "Vivienda de 2 Niveles",
+      "first_appearance": "Casas de 2 Niveles",
+      "characters": "Lote de 10 x 9.45 m"
+    },
+    {
+      "id": "marvel-daredevil",
+      "superhero": "Bosques de San Antonio",
+      "publisher": "CONSTRUFUTURO",
+      "alter_ego": "Vivienda de 2 Niveles",
+      "first_appearance": "Casas de 2 Niveles",
+      "characters": "Lote de 10 x 9.45 m"
+    },
+    {
+      "id": "marvel-hawkeye",
+      "superhero": "Bosques de San Antonio",
+      "publisher": "CONSTRUFUTURO",
+      "alter_ego": "Vivienda de 2 Niveles",
+      "first_appearance": "Casas de 2 Niveles",
+      "characters": "Lote de 10 x 9.45 m"
+    },
+    {
+      "id": "marvel-cyclops",
+      "superhero": "Bosques de San Antonio",
+      "publisher": "CONSTRUFUTURO",
+      "alter_ego": "Vivienda de 2 Niveles",
+      "first_appearance": "Casas de 2 Niveles",
+      "characters": "Lote de 10 x 9.45 m"
+    },
+    {
+      "id": "marvel-silver",
+      "superhero": "Bosques de San Antonio",
+      "publisher": "CONSTRUFUTURO",
+      "alter_ego": "Vivienda de 2 Niveles",
+      "first_appearance": "Casas de 2 Niveles",
+      "characters": "Lote de 10 x 9.45 m"
+    }
+  ]
+}
